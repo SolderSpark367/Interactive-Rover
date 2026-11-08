@@ -1,6 +1,7 @@
 # Interactive-Rover
 An interactive rover featuring a four-inch touchscreen display, tracked mobility systems, and a speaker that reacts to what's happening.
 
+
 -BOM-
 - Hosyond 4 Inch Touchscreen = $20 Link: https://www.amazon.com/Hosyond-320x480-ESP32-32E-Display-ST7796S/dp/B0FGJJ24S1/ref=sr_1_5?crid=16K13JCMARVWY&dib=eyJ2IjoiMSJ9.NdXEosPhK33iI82LFjcpdVqZlb6EATj_yMy7EW5SjMJ_2AMhbTDhLueDUj4q5UX8jX_Cfle_oV62mFCxzW64bUj0Mg53wjrg0OGDzFRlWW-ngUubc4cnemuIR_hrPgFzVSWALP2PHr-Vakr9HB5Gwswbp0r_eZtErO2cLwlawMMb1ju-NqMV-Kd24iq_ae2-WVq1oEM_4UwrmISQW5T0NxLU8LqZmz1CPE6bNR9CrL5B9I6MyPts8EQ2fS-CSLoHXSeign0IoMAiM-ibyv45k8aMePTvVA3bQu5wYEkgSmw._1JXdSwZnPgkGyIBpbU10PJnp20OIpt7IdcYW8ObTzk&dib_tag=se&keywords=hosyond%2B4%2Binch&qid=1794153187&sprefix=hosyond%2B4%2Binc%2Caps%2C109&sr=8-5&th=1
 - Arduino Nano = $3 Link: https://www.aliexpress.us/item/3256809956121978.html?spm=a2g0o.productlist.main.4.74c06f37ZZoBfe&aem_p4p_detail=20261108075453968878027999840005246212&algo_pvid=1e5a58f8-41b3-4aca-abb7-271f85391ae0&algo_exp_id=1e5a58f8-41b3-4aca-abb7-271f85391ae0-3&pdp_ext_f=%7B%22order%22%3A%223501%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.80%212.39%21%21%2125.18%2115.86%21%402103094f17941532929988011e0dbe%2112000051298773766%21sea%21US%21940486537%21X%211%210%21n_tag%3A-29911%3Bd%3A7c7071ba%3Bm03_new_user%3A-29895&curPageLogUid=xrV56J5Bbret&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010142436730%7C_p_origin_prod%3A&search_p4p_id=20261108075453968878027999840005246212_1&tblci=Girls+figure+skating+training+jacket
