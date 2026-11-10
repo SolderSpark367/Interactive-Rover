@@ -5,6 +5,8 @@ The main reason I made this project was so that I can learn how to use touch scr
 
 
 -WIRING DIAGRAM-
+<img width="1504" height="1290" alt="image" src="https://github.com/user-attachments/assets/b6cf5d94-fae4-4e8b-9557-a19013e0b46c" />
+
 
 
 
