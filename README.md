@@ -27,4 +27,4 @@ The main reason I made this project was so that I can learn how to use touch scr
 - Medium Sized Rubber Bands = $1 Link: https://www.aliexpress.us/item/3256807605184312.html?spm=a2g0o.productlist.main.1.72e472fezRkFCt&algo_pvid=b411d7d5-a9de-4bb9-8236-36c62c79334c&algo_exp_id=b411d7d5-a9de-4bb9-8236-36c62c79334c-0&pdp_ext_f=%7B%22order%22%3A%2212%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.75%211.09%21%21%2131.55%217.24%21%402103128917942708117296798e10c0%2112000042215921221%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7c7071ba%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165391&curPageLogUid=BaREG0uZFusI&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007791499064%7C_p_origin_prod%3A&tblci=Girls+figure+skating+training+jacket
 - 
 - TOTAL
-83 DOLLARS or $83 excluding tax and shipping so the absolute total will be around 90-100
+- 84 DOLLARS or $84 excluding tax and shipping so the absolute total will be around 90-100
