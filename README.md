@@ -5,7 +5,7 @@ The main reason I made this project was so that I can learn how to use touch scr
 
 
 -WIRING DIAGRAM-
-![tracked_rover_wiring.png](https://cdn.hackclub.com/01a1bc1b-c0a0-75fc-815e-fe302daf223f/tracked_rover_wiring.png)
+
 
 
 
