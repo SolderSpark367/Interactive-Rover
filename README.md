@@ -19,7 +19,7 @@ The main reason I made this project was so that I can learn how to use touch scr
 
 
 -WIRING DIAGRAM-
-![Uploading IMG_4490_f44815623a3bcabb.jpeg…]()
+<img width="3024" height="4032" alt="IMG_4490_f44815623a3bcabb" src="https://github.com/user-attachments/assets/085bd021-e1a3-4924-8daa-182707421d35" />
 
 
 
