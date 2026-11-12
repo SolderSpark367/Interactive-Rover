@@ -2,7 +2,8 @@
 - An interactive rover featuring a four-inch touchscreen display, tracked mobility systems, and a speaker that reacts to what's happening.
 What does this project even do? Well this project is mainly reacting to what is happening as in when it turns on it plays some music and on the touchscreen you can pick sounds or short music to play.
 
-This project mainly exists of me making it becuase I recently came across a video where a guy bought a touchscreen to use in his projects on youtube. And it looked really really cool and the other day my friend suggested I make a rover so I basically connected them two and made this interactive rover with a onboard speaker.
+- This project mainly exists of me making it becuase I recently came across a video where a guy bought a touchscreen to use in his projects on youtube. And it looked really really cool and the other day my friend suggested I make a rover so I basically connected them two and made this interactive rover with a onboard speaker.
+- 
 The main reason I made this project was so that I can learn how to use touch screens and screens in general in my projects and I decided to use the Hosyond 4 inch touchscreen since it has a built in ESP32 and a bunch of extra sockets that are very useful.
 
 -3D DESIGN-
