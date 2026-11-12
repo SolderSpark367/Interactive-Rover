@@ -19,7 +19,7 @@ The main reason I made this project was so that I can learn how to use touch scr
 
 
 -WIRING DIAGRAM-
-<img width="2400" height="3000" alt="rover_wiring_corrected" src="https://github.com/user-attachments/assets/4fc1520f-973d-493a-9a95-f3dbb2aa5bdb" />
+![Uploading IMG_4490_f44815623a3bcabb.jpeg…]()
 
 
 
