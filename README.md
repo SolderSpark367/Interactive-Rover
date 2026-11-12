@@ -42,4 +42,4 @@ The main reason I made this project was so that I can learn how to use touch scr
 - TOTAL
 - 84 DOLLARS or $84 excluding tax and shipping so the absolute total will be around 90-100
 
-- CREDITS : CODEX AND CHATGPT
+- CREDITS : CHATGPT
