@@ -8,6 +8,8 @@ What does this project even do? Well this project is mainly reacting to what is 
   
 The main reason I made this project was so that I can learn how to use touch screens and screens in general in my projects and I decided to use the Hosyond 4 inch touchscreen since it has a built in ESP32 and a bunch of extra sockets that are very useful.
 
+
+
 -3D DESIGN-
 <img width="828" height="922" alt="image" src="https://github.com/user-attachments/assets/83a39714-5d79-4925-a4ee-7e129d21e200" />
 <img width="1268" height="784" alt="image" src="https://github.com/user-attachments/assets/50f6cb56-c864-4eb4-8e62-dd7f0a633aec" />
