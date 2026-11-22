@@ -1,6 +1,6 @@
 # Interactive-Rover
 - An interactive rover featuring a four-inch touchscreen display, tracked mobility systems, and a speaker that reacts to what's happening.
-What does this project even do? Well this project is mainly reacting to what is happening as in when it turns on it plays some music and on the touchscreen you can pick sounds or short music to play.
+- What does this project even do? Well this project is mainly reacting to what is happening as in when it turns on it plays some music and on the touchscreen you can pick sounds or short music to play.
 
 <img width="1518" height="1080" alt="image" src="https://github.com/user-attachments/assets/92dc2743-d5b9-42e3-b89e-2d5cb96ee8f9" />
 
